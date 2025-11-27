@@ -7,7 +7,7 @@
 
 :house_with_garden: Sou de Porto Alegre - RS | Brasil.
 
-:man_technologist: Analista Desenvolvedor I na Global Hitss.
+:man_technologist: Desenvolvedor fullstack.
 
 Tecnologias que possuo conhecimento:
 
